@@ -10,3 +10,4 @@
 <h1 align="center"> My Discord Acc </h1>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/890626326350946364)](https://discord.com/users/890626326350946364)
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/ZuziaDev)
