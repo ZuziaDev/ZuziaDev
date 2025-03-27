@@ -19,9 +19,9 @@
 </p>
 
 <h2>📊 My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ZuziaDev&show_icons=true&theme=transparent" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ZuziaDev&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuziaDev&layout=compact&theme=transparent" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuziaDev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 
 <h2>Featured Projects</h2>
 <p>
