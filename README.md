@@ -5,6 +5,8 @@
 <div>
 <h2>About Me</h2>
 <p>Hi, I'm Zuzia! I'm a developer who loves writing code and tinkering with technology. I particularly enjoy finding and updating bots in GitHub repositories; it gives me a chance to both learn and contribute to the open-source community. I'm interested in web development and automation. I work with technologies like Node.js, Express, and React.</p>
+  <h2>My Discord Status</h2>
+<img src="https://lanyard.cnrad.dev/api/890626326350946364" alt="ZuziaDev's Discord Status">
 </div>
 <div>
 <h2>My Skills</h2>
@@ -38,7 +40,5 @@
 <strong>My Bot</strong>: <a href="https://aoichan.zuzia.dev">Aoi-chan</a><br>
 <strong>GitHub</strong>: You’re already here! 😄
 </p>
-<h2>My Discord Status</h2>
-<img src="https://lanyard.cnrad.dev/api/890626326350946364" alt="ZuziaDev's Discord Status">
-
+<p><img src="https://komarev.com/ghpvc/?username=ZuziaDev&style=for-the-badge&color=5865f2" alt="ZuziaDev"></p>
 </div>
