@@ -2,7 +2,7 @@
   
 <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/ZuziaDev/zuzia-branding/main/logo/Zuzia_Inc_Logo_Transparant.png" width="160">
+  <img src="https://raw.githubusercontent.com/ZuziaDev/branding/main/logo/Zuzia_Inc_Logo_Transparant.png" width="160">
 </p>
 <h1>Hello! 👋 I'm ZuziaDev</h1>
 </div>
