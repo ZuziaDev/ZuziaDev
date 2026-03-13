@@ -29,19 +29,18 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuziaDev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 
-<h2>Featured Projects</h2>
-<p>
-<a href="https://github.com/ZuziaDev/Express-CDN-Projesi"><strong>Express-CDN-Project</strong></a>: A CDN project developed with Express.js.<br>
-<a href="https://github.com/ZuziaDev/React-Amator-Portfolio"><strong>React-Amateur-Portfolio</strong></a>: A portfolio site built with React.<br>
-<a href="https://github.com/ZuziaDev/zuzia.console"><strong>zuzia.console</strong></a>: A module that enhances Node.js console logs with color and style.<br>
-<a href="https://github.com/ZuziaDev/zuzia.dev"><strong>zuzia.dev</strong></a>: The source code for my personal website.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZuziaDev/ZuziaDev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZuziaDev/ZuziaDev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ZuziaDev/ZuziaDev/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h2>Connect with Me</h2>
 <p>
-<strong>Discord</strong>: <a href="https://discord.com/users/890626326350946364">Zuziâ RodzeN</a><br>
+<strong>Discord DM</strong>: <a href="https://discord.com/users/890626326350946364">Zuziâ RodzeN</a><br>
+<strong>Discord Server</strong>: <a href="https://discord.gg/gSfkTJkr5U">Neuroa | © 2025 - 2026</a><br>
 <strong>Website</strong>: <a href="https://zuzia.dev">zuzia.dev</a><br>
-<strong>My Bot</strong>: <a href="https://aoichan.zuzia.dev">Aoi-chan</a><br>
+<strong>My Bot</strong>: <a href="https://neuroa.pro">Neuroa</a><br>
 <strong>GitHub</strong>: You’re already here! 😄
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=ZuziaDev&style=for-the-badge&color=5865f2" alt="ZuziaDev"></p>
